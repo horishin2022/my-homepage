@@ -567,3 +567,7 @@ h3 {
   color: var(--muted);
   font-weight: 700;
 }
+
+.blog-archive-button {
+  margin-top: 18px;
+}
