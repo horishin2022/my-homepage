@@ -1,5 +1,13 @@
 ﻿window.SHINSAN_BLOG_POSTS = [
     {
+        "date":  "2026-06-10",
+        "dateLabel":  "2026.06.10",
+        "category":  "診断士の現場メモ",
+        "title":  "甘やかしからリードマネジメントへ。最後はフィードバックの腕なのかもしれない",
+        "description":  "やさしいだけではチームは育たない。関係性と成果の両方をあきらめないリードマネジメントとフィードバックの話。",
+        "url":  "2026-06-10-lead-management-feedback.html"
+    },
+    {
         "date":  "2026-06-09",
         "dateLabel":  "2026.06.09",
         "category":  "診断士の現場メモ",
@@ -23,6 +31,5 @@
         "description":  "フォロワーシップの有効性と、話し合う場、心理的安全性でチームが変わった現場メモ。",
         "url":  "2026-06-07-followership-team-change.html"
     }
-]
-;
+];
 
