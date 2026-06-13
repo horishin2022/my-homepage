@@ -1,5 +1,13 @@
 ﻿window.SHINSAN_BLOG_POSTS = [
     {
+        "date":  "2026-06-13",
+        "dateLabel":  "2026.06.13",
+        "category":  "技術者診断士の経営メモ",
+        "title":  "上司は部下を変えられない。でも、部下は変わることができる",
+        "description":  "部下をコントロールするのではなく、観察し、言語化を手伝い、聞き、成長の兆しを褒める人材育成の話。",
+        "url":  "2026-06-13-manager-cannot-change-subordinates.html"
+    },
+    {
         "date":  "2026-06-11",
         "dateLabel":  "2026.06.11",
         "category":  "技術者診断士の経営メモ",
