@@ -1,5 +1,13 @@
 ﻿window.SHINSAN_BLOG_POSTS = [
     {
+        "date":  "2026-06-28",
+        "dateLabel":  "2026.06.28",
+        "category":  "技術者診断士の経営メモ",
+        "title":  "設計図に書けなかったもの",
+        "description":  "ベテラン設計者と若手設計者の関わりから、技術承継、人材育成、行動変容を考えるストーリー。",
+        "url":  "2026-06-28-design-drawing-could-not-show.html"
+    },
+    {
         "date":  "2026-06-16",
         "dateLabel":  "2026.06.16",
         "category":  "技術者診断士の経営メモ",
